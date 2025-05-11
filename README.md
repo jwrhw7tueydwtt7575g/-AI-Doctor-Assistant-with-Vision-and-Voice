@@ -29,7 +29,8 @@ This project is a multimodal AI Doctor Assistant built using **Groq API**, **Whi
 
 ## 📸 Demo Screenshot
 
-![AI Doctor Gradio App Screenshot](https://your-screenshot-url.com)
+![WhatsApp Image 2025-05-11 at 23 24 37_965d076d](https://github.com/user-attachments/assets/56a31157-e428-4821-ae55-78c5c4d505b9)
+
 
 ---
 
